@@ -1,4 +1,4 @@
-Create dev env for yvrig-control
+Create dev env for throw_ball
 ================================
 
 Build venv:
@@ -8,3 +8,6 @@ Build venv:
 Enter venv:
 
     source venv/bin/activate
+
+Run the script with `file_location`
+    python script/max_touches.py [file_location]
